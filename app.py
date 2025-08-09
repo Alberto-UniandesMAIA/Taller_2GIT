@@ -26,6 +26,8 @@ def load_data():
     # Comentario
     # Comentario_2
     # Comentario_3
+    # Comment JOWaldner
+    
     df = pd.read_csv("datos_energia.csv")
 
     # Convertir la columna de fecha a formato datetime
